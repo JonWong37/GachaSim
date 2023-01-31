@@ -1,0 +1,27 @@
+.squad{
+    margin: 20px;
+}
+.squad>a{
+    margin-left: 5px;
+}
+
+/* .store>button{
+    margin-right: 10px;
+} */
+.store>a{
+    background-color: hsl(195deg 87% 50%);
+}
+
+.right{
+    padding-top: 250px;
+    flex-direction: column;
+}
+
+h1{
+    padding-right: 100px;
+    font-size: 50px;
+}
+h2{
+    padding-right: 100px;
+    font-size: 50px;
+}
